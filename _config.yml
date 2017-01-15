@@ -17,7 +17,7 @@ title: Kevin Yen
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, my name is Kevin. You can call me Perry. I'm a software engineer and a
-  recent grad with interests ranging from electronics, programming, and music.
+  recent grad with interests ranging from electronics, programming, and electronic music.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
